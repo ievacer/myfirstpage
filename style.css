@@ -1,0 +1,62 @@
+body{
+  background: #d2f3e0;
+  color: rgb(20,20,20);
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+}
+h2 {
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4A1942;
+}
+a {
+  text-decoration: none;
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+p{
+  color: #985F99;
+}
+
+/*Custom design*/
+
+#banner {
+  background-image: url("https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+  background-size: cover;
+  padding: 150px 0px;
+  text-align: center;
+  color: white;
+}
+
+#banner h1 {
+color: #226b80;
+font-size: 50px;
+text-shadow:  0.3px 0.3px 0.3px grey;
+ }
+#banner p {
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.section {
+  padding: 50px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+#footer {
+  background: #2E1C2B;
+font-size: 20px;
+padding: 50px;
+}
+
+.fab{
+  color: #ff8a5c;
+  font-size: 100px;
+}
